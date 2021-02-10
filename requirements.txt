@@ -25,3 +25,5 @@ flask-socketio
 eventlet
 pymongo
 flask-login
+firebase
+python-firebase==1.2
